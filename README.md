@@ -1,2 +1,2 @@
 # py
-Python
+Git code demonstration
